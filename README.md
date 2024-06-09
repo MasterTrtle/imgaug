@@ -135,12 +135,6 @@ You can deinstall the library again via `conda remove imgaug`.
 
 ### Installation: pip
 
-Then install imgaug either via pypi (can lag behind the github version):
-```bash
-pip install imgaug
-```
-
-or install the latest version directly from github:
 ```bash
 pip install git+https://github.com/MasterTrtle/imgaug.git
 ```
